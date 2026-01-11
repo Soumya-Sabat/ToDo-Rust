@@ -1,2 +1,4 @@
-#This is my learning only
-g
+This is  my first project that is made with the rust backend and with blockchain
+This depicts my understading on this project 
+
+This is the curated list of all the topics that i have coveered to the compelete of the project
